@@ -1,7 +1,7 @@
-Content of the Course:
+## Content of the Course:
 
 1- Java Multithreading: Starting Threads
-2- Java Multithreading: Volatile – Basic Thread Communication
+2- Java Multithreading: Volatile â€“ Basic Thread Communication
 3- Java Multithreading: Synchronized
 4- Java Multithreading: Lock Objects
 5- Java Multithreading: Thread Pools
